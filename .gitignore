@@ -22,5 +22,3 @@ pnpm-debug.log*
 *.sw?
 
 #Node modules
-node_modules
-src
