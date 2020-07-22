@@ -1,6 +1,9 @@
 {
   "name": "babyface",
   "version": "0.1.0",
+  "engines": {
+    "node": "12.x"
+  },
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -21,6 +24,7 @@
     "vue": "^2.6.11",
     "vue-carousel-3d": "^0.2.0",
     "vue-cookies": "^1.7.1",
+    "vue-moveable": "^1.8.9",
     "vue-socket.io": "^3.0.9",
     "vue-touch": "^2.0.0-beta.4"
   },
