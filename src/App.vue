@@ -135,7 +135,6 @@
         top: 10vh;
         left: 25vw;
         position: absolute;
-        /*flex: 3*/
 
     }
 
