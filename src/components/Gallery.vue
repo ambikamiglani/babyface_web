@@ -9,11 +9,11 @@
         </div>
         <div class="col">
             <img class="image" src="bts3.png"/>
-            <img class="image" src="kids_bts.jpg"/>
+            <img class="image" src="kids_bts.JPG"/>
         </div>
         <div class="col">
             <img class="image" src="/images/joey_bts.png"/>
-            <img class="image" src="andy_bts.jpg"/>
+            <img class="image" src="andy_bts.JPG"/>
         </div>
     </div>
     </div>
